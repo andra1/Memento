@@ -1,0 +1,1 @@
+do expo start or npm start to start the mobile expo client
