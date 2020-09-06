@@ -6499,6 +6499,13 @@ react-native-tab-view@^0.0.74:
   dependencies:
     prop-types "^15.6.0"
 
+react-native-tensorflow@^0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/react-native-tensorflow/-/react-native-tensorflow-0.1.8.tgz#4bfd34bde7692010f98fc9720836b17bd1c02fd6"
+  integrity sha1-S/00vedpIBD5j8lyCDaxe9HAL9Y=
+  dependencies:
+    uuid "^3.1.0"
+
 react-native-vector-icons@4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-4.5.0.tgz#6b95619e64f62f05f579f74a01fe5640df95158b"
@@ -7776,9 +7783,9 @@ traverse@0.6.6:
   integrity sha1-y99WD9e5r2MlAv7UD5GMFX6pcTc=
 
 tree-kill@^1.1.0:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.1.tgz#5398f374e2f292b9dcc7b2e71e30a5c3bb6c743a"
-  integrity sha512-4hjqbObwlh2dLyW4tcz0Ymw0ggoaVDMveUB9w8kFSQScdRLo0gxO9J7WFcUBo+W3C1TLdFIEwNOWebgZZ0RH9Q==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
+  integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 trim-right@^1.0.1:
   version "1.0.1"
